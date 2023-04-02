@@ -1,0 +1,27 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "projeto back-end da labenu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christhianbrandao/labecommerce-backend.git"
+  },
+  "keywords": [
+    "java-script",
+    "js",
+    "node",
+    "back-end"
+  ],
+  "author": "christhian brandao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christhianbrandao/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/christhianbrandao/labecommerce-backend#readme"
+}
